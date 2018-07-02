@@ -1,0 +1,19 @@
+{
+  "title": "电子书制作利器：GitBook",
+  "description": "对方便好用的电子书制作系统Gitbook做个总结，包括电子书制作过程、常用插件、book.json的常用配置、利用Makefile实现一键发布、客户端Gitbook Editor的使用、一些常见的坑。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "ebook_system_gitbook"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/ebook_system_gitbook/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/ebook_system_gitbook/pdf/ebook_system_gitbook.pdf"
+    }
+  }
+}
