@@ -16,16 +16,18 @@
 * [【记录】Mac本地搭建Gitbook环境](http://www.crifan.com/mac_local_build_gitbook_environment)
 * [【记录】把http_summary的gitbook上传到二级域名book.crifan.com中](http://www.crifan.com/gitbook_upload_to_sub_domain_book_crifan_com)
 * [【整理】Gitbook和Gitbook Editor使用心得](http://www.crifan.com/gitbook_gitbook_editor_usage_summary_note)
-* 【记录】用Gitbook Editor中的Publish去发布gitbook源码
-* 【已解决】gitbook中用命令行去创建book
+* [【记录】用Gitbook Editor中的Publish去发布gitbook源码](https://www.crifan.com/gitbook_editor_publish_gitbook_soure_code/)
+* [【已解决】gitbook中用命令行去创建book]([【已解决】gitbook中用命令行去创建book](https://www.crifan.com/gitbook_use_git_cli_create_new_book/))
 * [【记录】试用Gitbook Editor去编辑Markdown的文章](http://www.crifan.com/try_gitbook_editor_edit_markdown_post)
 * [【记录】gitbook升级到新版本](http://www.crifan.com/gitbook_upgrade_to_latest_new_version)
 * [【已解决】gitbook中安装multipart插件](http://www.crifan.com/gitbook_install_multipart_plugin)
 * [【已解决】Gitbook中添加章节的编号](http://www.crifan.com/gitbook_add_chapter_index_number)
 * [【部分解决】Gitbook中添加多章节且希望一级章节也显示编号](http://www.crifan.com/gitbook_add_multiple_chapter_first_leve_chapter_show_index_number)
-* 【未解决】Gitbook中实现多章节中一级章节目录显示一级编号
-* 【未解决】Gitbook中Markdown的代码段中如何添加行号
-* 【已解决】gitbook如何实现book内部的跨页面的跳转或引用
-* 【已解决】gitbook中想要实现引用别的章节的内容
-* 【未解决】gitbook中用markdown的include实现根目录外部的README.md文件内容同步
+* [【未解决】Gitbook中实现多章节中一级章节目录显示一级编号]([【未解决】Gitbook中实现多章节中一级章节目录显示一级编号](https://www.crifan.com/gitbook_try_multiple_chapter_level_one_show_first_class_nubmber/))
+* [【未解决】Gitbook中Markdown的代码段中如何添加行号](http://www.crifan.com/gitbook_markdown_code_block_show_line_number)
+* [【已解决】gitbook如何实现book内部的跨页面的跳转或引用]([【已解决】gitbook如何实现book内部的跨页面的跳转或引用](http://www.crifan.com/gitbook_how_internal_book_jump_refrence))
+* [【已解决】gitbook中想要实现引用别的章节的内容]([【已解决】gitbook中想要实现引用别的章节的内容](http://www.crifan.com/gitbook_ref_another_chapter_content))
+* [【未解决】gitbook中用markdown的include实现根目录外部的README.md文件内容同步](http://www.crifan.com/gitbook_use_markdown_include_external_readme_md_to_sync_file)
 * [【部分解决】给gitbook中左侧添加PDF及其他格式的下载按钮](http://www.crifan.com/gitbook_left_add_pdf_other_format_download_button)
+* [【暂时解决】gitbook调试时文件改动后页面刷新特别慢](http://www.crifan.com/gitbook_debug_file_change_compile_refresh_too_slow)
+* [【无法解决】gitbook中表格中嵌入code代码](http://www.crifan.com/gitbook_table_cell_inside_embed_code)

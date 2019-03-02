@@ -10,4 +10,8 @@
 
 [【记录】把http_summary的gitbook上传到二级域名book.crifan.com中](http://www.crifan.com/gitbook_upload_to_sub_domain_book_crifan_com)
 
-TODO：贴出来对应的Makefile的内容，供参考
+且后来，把自己的gitbook的整套环境做成一个模板了，需要的可以去参考：
+
+[crifan/gitbook_template: 演示如何使用crifan的gitbook的模板去创建自己的gitbook电子书](https://github.com/crifan/gitbook_template)
+
+对应的`Makefile`在[GitbookCommon.mk](https://github.com/crifan/gitbook_template/blob/master/GitbookCommon.mk)，需要的可以去参考。

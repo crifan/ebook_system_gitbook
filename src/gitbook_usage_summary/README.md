@@ -22,7 +22,7 @@
 
 后来又去试了试：
 
-【未解决】Gitbook中实现多章节中一级章节目录显示一级编号
+[【未解决】Gitbook中实现多章节中一级章节目录显示一级编号](https://www.crifan.com/gitbook_try_multiple_chapter_level_one_show_first_class_nubmber/)
 
 虽然找到了别人为了解决次bug而去改动的gitbook的源码的位置，但是由于无法找到
 
@@ -82,23 +82,23 @@ Failed to load prism syntax: md
 
 不过gitbook中的prism插件暂时还没有直接支持行号显示：
 
-【未解决】Gitbook中Markdown的代码段中如何添加行号
+[【未解决】Gitbook中Markdown的代码段中如何添加行号]([【未解决】Gitbook中Markdown的代码段中如何添加行号](http://www.crifan.com/gitbook_markdown_code_block_show_line_number))
 
 ## 跨页面引用和跳转
 
 跨页面的话，貌似只能直接用链接地址了：
 
-【已解决】gitbook如何实现book内部的跨页面的跳转或引用
+[【已解决】gitbook如何实现book内部的跨页面的跳转或引用](http://www.crifan.com/gitbook_how_internal_book_jump_refrence)
 
 后记：
 
 已经实现了：
 
-【已解决】gitbook中想要实现引用别的章节的内容
+[【已解决】gitbook中想要实现引用别的章节的内容](http://www.crifan.com/gitbook_ref_another_chapter_content)
 
 ## 引用gitbook的root目录之外是不支持的
 
-【未解决】gitbook中用markdown的include实现根目录外部的README.md文件内容同步
+[【未解决】gitbook中用markdown的include实现根目录外部的README.md文件内容同步](http://www.crifan.com/gitbook_use_markdown_include_external_readme_md_to_sync_file)
 
 不过倒是可以通过:
 
@@ -106,10 +106,22 @@ Failed to load prism syntax: md
 {% include "../README.md" %}
 ```
 
-去引用gitbook内部的其他的章节的。
+去引入gitbook内部的其他的章节的。
 
 ## 左侧添加下载PDF按钮
 
 没有完全实现，间接实现了类似效果：
 
 [【部分解决】给gitbook中左侧添加PDF及其他格式的下载按钮](http://www.crifan.com/gitbook_left_add_pdf_other_format_download_button)
+
+## 调试时文件改动后页面刷新特别慢
+
+详见：
+
+[【暂时解决】gitbook调试时文件改动后页面刷新特别慢](http://www.crifan.com/gitbook_debug_file_change_compile_refresh_too_slow)
+
+## gitbook中表格中无法嵌入code代码
+
+详见：
+
+[【无法解决】gitbook中表格中嵌入code代码](http://www.crifan.com/gitbook_table_cell_inside_embed_code)
