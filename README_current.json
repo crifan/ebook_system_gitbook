@@ -1,0 +1,7 @@
+{
+  "latestVersion": "v1.2",
+  "lastUpdate": "20190530",
+  "gitRepoName": "ebook_system_gitbook",
+  "bookName": "电子书制作利器：GitBook",
+  "bookDescription": "对电子书制作利器`GitBook`做个总结，包括电子书制作过程、常用插件、book.json的常用配置、利用Makefile实现一键发布、如何输出多种格式(html/pdf/epub/mobi)，客户端Gitbook Editor的使用、一些常见的坑等等。"
+}

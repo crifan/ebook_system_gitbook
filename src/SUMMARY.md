@@ -4,7 +4,7 @@
 * [Gitbook简介](gitbook_intro/README.md)
 * [Gitbook命令行工具](gitbook_command/README.md)
 * [电子书制作过程](build_procedure/README.md)
-* [Gitook插件](gitbook_plugins/README.md)
+* [Gitbook插件](gitbook_plugins/README.md)
   * [代码高亮](gitbook_plugins/code_highlight.md)
   * [按钮](gitbook_plugins/button.md)
   * [分享](gitbook_plugins/share.md)

@@ -1,4 +1,4 @@
-# Gitook插件
+# Gitbook插件
 
 gitbook有很多插件
 
